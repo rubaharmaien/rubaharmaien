@@ -16,7 +16,7 @@
 - 🔭 I’m currently Pursuing **Electronics And Communication Engineering.**  
 - 💬 Ask me about **Python, C, Embedded C**  
 - 📫 How to reach me **rubaharmaien@gmail.com**  
-- 📄 Know about my experiences [https://harmaienruba.tiiny.site](https://harmaienruba.tiiny.site)  
+- 📄 Know about my experiences [📜](https://harmaienruba.tiiny.site)  
 - ⚡ Fun fact **I think I am Creative**  
 
 </div>
