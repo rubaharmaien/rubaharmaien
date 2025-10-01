@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=rubaharmaien&label=Profile%20views&color=0e75b6&style=flat" alt="rubaharmaien" />
 </p>
 
-<p align="center"> 
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
 </p>
 
 <div align="center">
